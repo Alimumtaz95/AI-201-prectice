@@ -1,4 +1,4 @@
-# pr1 Project
+# SimpleFlow Project
 
 This project demonstrates the use of the `crewai` and `litellm` libraries to create workflows and generate fun facts about cities in Pakistan. The project consists of two main Python scripts: `main.py` and `main1.py`. Below is a step-by-step guide to understanding and running the project.
 
